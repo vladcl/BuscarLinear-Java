@@ -1,18 +1,16 @@
-## Getting Started
+## About this project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Olá está é uma aplicação criada por Vladson Carlos para um exercício de Busca Linear em JAVA.
 
-## Folder Structure
+## Functionalities
 
-The workspace contains two folders by default, where:
+Este projeto tem a funcionalidade de criar um código para realizar uma busca linear pelo número desejado por todo o vetor.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Try yourself
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Se quiser testar você mesmo, basta clonar o repositório e escolher o tamanho do vetor que você quer criar e digitar o número que quer buscar.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Fique a vontade para se divertir!
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Thanks for your time! 
