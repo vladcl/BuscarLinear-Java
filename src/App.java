@@ -15,13 +15,17 @@ public class App {
         Scanner scanner = new Scanner(System.in);
         int searchNumber = scanner.nextInt();
 
+        int count = 0;
         boolean findIt = false;
         for (int i = 0; i < vector.length; i++) {
+            count++;
             if (vector[i] == searchNumber) {
                 findIt = true;
                 break;
             }
         }
+
+        System.out.println("Para este número eu fiz: " + count + " teste(s).");
         if (findIt == true) {
             System.out.println("Achei! :)");
         } else {
